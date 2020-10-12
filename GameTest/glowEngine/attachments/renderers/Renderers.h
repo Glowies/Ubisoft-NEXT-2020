@@ -1,0 +1,9 @@
+#pragma once
+#include "Renderer.h"
+#include "LineRenderer.h"
+#include "RegularPolygonRenderer.h"
+#include "TunnelRenderer.h"
+#include "PlayerRenderer.h"
+#include "EnemyRenderer.h"
+#include "TextRenderer.h"
+#include "WallRenderer.h"
